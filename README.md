@@ -2,7 +2,7 @@
 后端开发的学习之路
 ## 全目录
 
-1.[关于 后端开发](https://github.com/Sleepwalker-zero/learn-backend/issues/2#issue-3227548045)
+1.[后端开发那些事儿](https://github.com/Sleepwalker-zero/learn-backend/issues/2#issue-3227548045)
 
 2.[关于 Git](https://github.com/Sleepwalker-zero/learn-backend/issues/3#issue-3227615878)
 
