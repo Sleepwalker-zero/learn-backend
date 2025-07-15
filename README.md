@@ -10,4 +10,6 @@
 
 4.[关于 Elastic Search](https://github.com/Sleepwalker-zero/learn-backend/issues/5#issue-3227891976)
 
+5.[关于 Linux](https://github.com/Sleepwalker-zero/learn-backend/issues/7#issue-3232052518)
+
   [35岁程序员植发焕发第二春](https://github.com/Sleepwalker-zero/learn-backend/issues/2#issue-3227548045)
