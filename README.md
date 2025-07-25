@@ -3,7 +3,7 @@
 后端开发的学习之路，每天保持学习进步
 这里的学习记录参考了网上很多博客文章，个人整理可能有差错，如果需要深入学习的话可以参考相关领域书籍。
 
-## 全目录
+## List
 
 - [关于 Git](https://github.com/Sleepwalker-zero/learn-backend/issues/3#issue-3227615878)
 
