@@ -19,6 +19,8 @@
 
 - [关于 Doris](https://github.com/Sleepwalker-zero/learn-backend/issues/9#issue-3261804828)
 
+- [关于 Minio](https://github.com/Sleepwalker-zero/learn-backend/issues/16#issue-3636413217)
+
 - [关于 开发规范（参考阿里巴巴手册）]()
 
   [日常整理与不足](https://github.com/Sleepwalker-zero/learn-backend/issues/2#issue-3227548045)
