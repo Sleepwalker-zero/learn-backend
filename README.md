@@ -9,7 +9,7 @@
 
 - [关于 Rocket MQ](https://github.com/Sleepwalker-zero/learn-backend/issues/4#issue-3227680875)
 
-- [关于 Rabbit MQ](https://github.com/Sleepwalker-zero/learn-backend/issues/15)
+- [关于 Rabbit MQ](https://github.com/Sleepwalker-zero/learn-backend/issues/15#issue-3636396448)
 
 - [关于 MySQL](https://github.com/Sleepwalker-zero/learn-backend/issues/6#issue-3230556914)
 
